@@ -70,4 +70,4 @@ Components Used:
 - CartItem
 
 # Author
-- @ webKanchan1234
+- [@kanchankumar](https://github.com/webKanchan1234)
