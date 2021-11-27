@@ -1,9 +1,8 @@
 # E-commerce Grocery online delivery Project 
 # Description
-Grocery ecommerce is a online platform from where anyone can order products related to grocery items. Users can see all the display products in a product category. Users can see on the basis of number of rating, product categories or search product related to any items 
+Grocery ecommerce is a online platform from where anyone can buy products related to grocery items. Users can see all the display products in a product category. Users can see on the basis of number of rating, product categories or search product related to any items 
 Users can click on any product to get more information including pricing, number of reviews and rating. Users can select items and add them to their shopping cart. 
-From shopping cart, they further move to check out payment or remove product from shopping cart. Admin create products, update and delete.Admin see the number of users, number of
-orders and number of reviews etc.
+From shopping cart, they further move to check out payment or remove product from shopping cart. Admin create products, update and delete.Admin see the number of users, number of orders and number of reviews etc.
 # Features
 Admin features:
 - Login and register
@@ -28,7 +27,8 @@ Users features:
 - gives the feedback of the product
 
 # Brief Process Flow
-This is very simple in use first go on this URL.If you want to buy any product, then you need to register. After registering, you go on product page and see the number of products available. In case if product is not showing, then you search product or apply filter for category. After choosing product, see the number of rating, reviews and add to cart. From cart, If you want to cancel,then remove product from cart. Otherwise proceed to payment check out and fill address and proceed next for payment.
+This is very simple in use first go on this URL.If you want to buy any product, then you need to register. After registering, you go on product page and see the number of products available. In case if product is not showing, then you search product or apply filter for category. After choosing product, see the number of rating, reviews and add to cart. From cart, If you want to cancel,then remove product from cart. Otherwise proceed to payment check out and fill address and proceed next for payment. There are many popup button available in user profile such as order, cart, logout, profile etc. User can update profile by clicking profile button, see the order status by clicking order button, check product available in cart.
+
 
 # Technologies, Libraries and Components Used
 Technologies and Libraries used:
